@@ -56,7 +56,7 @@ Com o objetivo de entender a evolução dos clubes desde o início da era por po
 - 🏠 vs 🛫 Aproveitamento mandante x visitante
 
 
-<img width="1327" height="767" alt="image" src="https://github.com/user-attachments/assets/ebee4d37-44a8-4fd1-b2aa-85b6283a8896" />
+<img width="1325" height="767" alt="image" src="https://github.com/user-attachments/assets/5ca6becb-2da7-4e17-9d35-262973e03853" />
 
 ---
 
